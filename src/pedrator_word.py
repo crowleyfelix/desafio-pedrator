@@ -3,9 +3,9 @@ class PedratorWord(object):
 
     ALPHABET = "qwtrbnvmczspkjgxdflh"
 
-    LOVE_LETTERS = "wtpj"
+    LOVE_LETTERS = "wtpjx"
 
-    PASSION_LETTERS = "qrbnvmczskgxdflh"
+    PASSION_LETTERS = "qrbnvmczskgdflh"
 
     def is_preposition(self,word):
            
